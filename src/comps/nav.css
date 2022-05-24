@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.navLink li a:hover,
+.navLink>.active>a {
+
+    color: #ff9393 !important;
+    background-color: #fff 0% !important;
+    background-image: none !important;
+}
+
+.navLink li{
+    color: #000000;
+}
+
+.nav-item li {
+    list-style: none;
+    color: #000000;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    
+}
+
+.dropdown-toggle::after { 
+    display: none !important; 
+}
+

@@ -1,0 +1,30 @@
+.p4-h2 {
+    font-family: 'Belleza', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+
+.p4-p {
+    font-family: 'Bellefair', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 125.2%;
+    /* or 23px */
+    text-align: justify;
+    letter-spacing: 0.03em;
+    text-indent: 50px;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}

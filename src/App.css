@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bellefair&family=Belleza&family=Numans&family=Nunito&family=Raleway&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Odor+Mean+Chey&display=swap');
+
 .App {
   text-align: center;
 }
@@ -35,4 +38,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.p-1 {
+  width: auto;
+  height: 692px;
+
+  left: 0px;
+  top: 0px;
+  background-image: url("../src/comps/img/image1.svg");
 }

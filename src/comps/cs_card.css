@@ -1,0 +1,72 @@
+.cs-h6 {
+    font-family: 'Numans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.cs-p {
+    font-family: 'OdorMeanChey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.c-box {
+
+    margin: 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+}
+
+.c-box:hover {
+    background-color: #FF6B00;
+}
+
+
+
+.shirt-colors {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.shirt-colors span {
+    width: 14px;
+    height: 14px;
+    margin: 0 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: relative;
+}
+
+.black {
+    background: #1F2229;
+}
+
+.blue {
+    background: #2D5FD4;
+}
+
+.green {
+    background: #7FFF43;
+}
+
+.ogreen {
+    background: #B0DA87;
+}
